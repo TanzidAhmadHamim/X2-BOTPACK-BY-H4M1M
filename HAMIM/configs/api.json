@@ -1,0 +1,8 @@
+{
+  "ryukodev": "https://main.ryukodev.repl.co",
+  "talk": "https://api.ryukodev.repl.co/talk/get/",
+  "teach": "https://api.ryukodev.repl.co/talk/add/",
+  "biblesearch": "https://bible-api.com/",
+  "weather": "https://api.openweathermap.org/data/2.5/weather?q=",
+  "sensui": "https://sensui-useless-apis.codersensui.repl.co/"
+}

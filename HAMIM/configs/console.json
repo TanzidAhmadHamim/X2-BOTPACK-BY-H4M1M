@@ -1,0 +1,28 @@
+{
+  "note": "config the console output and loaders here!",
+  "console": {
+    "success": "blueBright",
+    "error": "red",
+    "warn": "yellow",
+    "available": "blue, red, yellow, white, green, blueBright",
+    "editNames": {
+      "success": "• X2 IN RUNNING •",
+      "error":   "• X2 IN ERROR   •",
+      "warn":    "• X2 IN WARNING •"
+    }
+  },
+  "logger": {
+    "colors": {
+      "cmdStarter": "blueBright",
+      "evntStarter": "blue",
+      "cmdLoader": "blueBright",
+      "evntLoader": "blue"
+    },
+    "strings": {
+      "cmdStarter": "• X2 INPORTING COMMANDS •",
+      "evntStarter": "• X2 INPORTING EVENTS •",
+      "cmdLoader": "• X2 COMMAND •",
+      "evntLoader": "• X2 EVENT  •"
+    }
+  }
+}
